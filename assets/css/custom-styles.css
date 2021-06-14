@@ -2,11 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans&display=swap');
 
 body {
-  font-family: 'Alegreya', 'Times New Roman', serif;
+  font-family: 'Alegreya Sans', 'Times New Roman', serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
-font-family: 'Alegreya Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+h1, h2, h3, h4, h5, h6, .intro-header .page-heading .page-subheading, .intro-header .post-heading .post-subheading {
+font-family: 'Alegreya', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 _type.scss:16
