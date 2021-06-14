@@ -1,0 +1,13 @@
+.navbar-custom .avatar-container .avatar-img-border {
+	box-shadow: 0 0 0 rgba(0, 0, 0, .8);
+	border-radius: 100%;
+	-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .8); */
+	-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .8);
+}
+
+.navbar-custom.top-nav-regular .avatar-container .avatar-img-border {
+	border-radius: 100%;
+	box-shadow: 0 0 0 rgba(0, 0, 0, .8); */
+	-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .8); */
+	-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .8); */
+}
