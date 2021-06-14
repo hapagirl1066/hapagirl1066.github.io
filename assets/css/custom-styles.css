@@ -11,3 +11,7 @@
 	-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .8); */
 	-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .8); */
 }
+
+.navbar-custom .avatar-container .avatar-img {
+		border-radius: 100%;
+}
