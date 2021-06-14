@@ -1,6 +1,6 @@
 ---
 layout: home
-title: hapgirl.com
+title: hapagirl.com
 subtitle: knitting, making and other related stuff
 ---
 
