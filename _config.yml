@@ -18,8 +18,11 @@ author: Kalani Craig
 navbar-links:
   About Me: "about"
   Patterns:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - These Socks Are Forked: "/patterns/these-socks-are-forked/"
+    - Forked Heel Ribbed Socks: "/patterns/forked-heel-ribbed-socks/"
+    - Spiraling Snow Socks: "/patterns/spiraling-snow-socks/"
+    - Pintuck Panel Top: "/patterns/pintuck-panel/"
+    - Mistaken Identity Hat & Scarf: "mistaken-identity-hat-scarf"
   Author's home: "https://www.kalanicraig.com"
 
 # --- Logo --- #
