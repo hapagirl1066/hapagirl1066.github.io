@@ -22,7 +22,7 @@ navbar-links:
     - Forked Heel Ribbed Socks: "/patterns/forked-heel-ribbed-socks/"
     - Spiraling Snow Socks: "/patterns/spiraling-snow-socks/"
     - Pintuck Panel Top: "/patterns/pintuck-panel/"
-    - Mistaken Identity Hat & Scarf: "mistaken-identity-hat-scarf"
+    - Mistaken Identity Hat & Scarf: "/patterns/mistaken-identity-hat-scarf/"
   Author's home: "https://www.kalanicraig.com"
 
 # --- Logo --- #
@@ -222,6 +222,12 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+  -
+    scope:
+      path: "/pattern/" # any file that's not a post will be a "page" layout by default
+    values:
+      layout: "pattern"
+
 
 # Exclude these files from production site
 exclude:
