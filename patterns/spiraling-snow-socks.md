@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pattern
 permalink: /patterns/spiraling-snow-socks/
 name: "Spiraling Snow Socks"
 gauge: "27 sts / 40 rows = 4 inches"

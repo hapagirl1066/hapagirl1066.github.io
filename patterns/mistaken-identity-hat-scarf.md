@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pattern
 permalink: /patterns/mistaken-identity-hat-scarf/
 name: "Mistaken Identity Hat & Scarf"
 gauge: "10 sts"

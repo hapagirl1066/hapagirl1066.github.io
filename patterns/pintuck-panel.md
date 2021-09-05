@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pattern
 permalink: /patterns/pintuck-panel/
 name: "Pintuck Panel"
 gauge: "26 sts / 38 rows in main yarn"

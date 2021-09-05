@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pattern
 permalink: /patterns/forked-heel-ribbed-socks/
 name: "Forked Heel Ribbed Socks"
 gauge: "32 sts/48 rows"
