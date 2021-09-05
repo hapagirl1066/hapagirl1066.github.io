@@ -1,6 +1,9 @@
 ---
-permalink: /about
+layout: default
+permalink: /about/
 ---
+
+## About me
 
 I'm a medieval historian with a past life in Web site design and management, a present life in digital history, and a passion for even more history, knitting and gymnastics, though the order is variable. I’m a process knitter, but I also have a strong product-knitter streak, which means I’m very picky about the things I knit that aren’t specifically intended for publication.
 
