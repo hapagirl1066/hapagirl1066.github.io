@@ -67,11 +67,17 @@ layout: default
       <div class="address">
   	<hr>
   	
-<div class="button-group-option" data-grouptype="BUY">
-  <span class="button success radius">{{page.price}}</span>
-  <a href="{{page.link}}" class="button primary radius">{{page.purchaselocation}}</a>
+{% if page.buylink %}
+<div class="button-group-option" data-grouptype="{{page.price}}">
+  <a href="{{page.buylink}}" class="button success radius">Buy</a>
+  <a href="{{page.link}}" class="button primary radius">{% if page.purchaselocation %}{{page.purchaselocation}}{%else%}Info{%endif%}</a>
 </div>
-
+{% else %}
+<div class="button-group-option" data-grouptype="?">
+  <a href="{{page.link}}" class="button success radius">Free</a>
+  <a href="{{page.link}}" class="button primary radius">{% if page.purchaselocation %}{{page.purchaselocation}}{%else%}Info{%endif%}</a>
+</div>
+{% endif %}
 	<hr>
 </div>
 

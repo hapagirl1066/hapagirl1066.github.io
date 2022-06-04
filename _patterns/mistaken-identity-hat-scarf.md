@@ -2,12 +2,13 @@
 layout: pattern
 permalink: /patterns/mistaken-identity-hat-scarf/
 name: "Mistaken Identity Hat & Scarf"
-gauge: "10 sts"
+gauge: "10 sts/17 rows = 4&quot;"
 yardage: "225 yards (130 yards for the hat alone)"
 difficulty: "2"
 skills: "Knitting, purling, knitting in the round, Judy's Magic Cast-on"
 price: "5.95"
-link: "http://www.ravelry.com/purchase/hapagirl-designed-by-kalani-craig/13108"
+link: "https://www.ravelry.com/patterns/library/mistaken-identity-hat--scarf"
+buylink: "http://www.ravelry.com/purchase/hapagirl-designed-by-kalani-craig/13108"
 purchaselocation: Ravelry
 image: "http://farm3.static.flickr.com/2756/4425413304_1609541de3_o.jpg"
 shortdesc: "Mistake rib creates a warm, elastic fabric and highlights the beautiful shifting colors of hand-dyed yarn. A top-down slouchy hat using EZ’s basic Pi ratio makes for a nice technique change."
