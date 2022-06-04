@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pattern
 permalink: /patterns/these-socks-are-forked/
 name: "These Socks Are Forked"
 gauge: "32 sts/48 rows"
@@ -8,7 +8,9 @@ difficulty: "3"
 skills: "Knitting, purling, knitting in the round, short rows, cabling, lace, reading charts"
 price: "5.95"
 link: "http://www.ravelry.com/purchase/hapagirl-designed-by-kalani-craig/9011"
-image: "http://www.hapagirl.com/files/2008/09/thesesocksareforked-300x300.jpg"
+purchaselocation: Ravelry
+image: "thesesocksareforked.jpg"
+shortdesc: "This brand-new heel turn technique, the “forked heel,” will win over die-hard devotees of short-row and heel-flap techniques alike, thanks to the extra heel room and more anatomically correct shape."
 ---
 
 This brand-new heel turn technique, the “forked heel,” will win over die-hard devotees of short-row and heel-flap techniques alike, thanks to the extra heel room and more anatomically correct shape.

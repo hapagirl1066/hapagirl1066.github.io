@@ -1,7 +1,80 @@
 ---
-layout: page
+layout: default
 ---
+{% if page.image contains "http" %}
+{% assign ImageLocation = page.image %}
+{% else %}
+{% capture ImageLocation %}{{ site.baseurl }}{{ site.urlimg }}{{page.image}}
+{% endcapture %}
+{% endif %}
 
-{{ content }}
+<div class="grid-container">
+<div class="grid-x grid-padding-x align-middle">
+<div class="cell medium-8 align-right small-order-2 medium-order-1 large-order-1 align-middle">
 
-{{ page.gauge }}
+<h2 class="subheadline">{{ page.name }}</h2>
+
+{{page.content}}
+
+<section class="product-feature-section">
+  <div class="product-feature-section-outer">
+    <h4 class="subheadline">Pattern Info</h4>
+
+    <div class="product-feature-section-inner">
+
+      <div class="product-feature-section-feature top-left">
+        <i class="fa-solid fa-ruler-combined product-feature-icon" aria-hidden="true"></i>
+        <div>
+          <p class="feature-title">Gauge</p>
+          <p class="feature-desc">{{ page.gauge }}</p>
+        </div>
+      </div>
+
+      <div class="product-feature-section-feature top-right">
+        <i class="fa-solid fa-ruler product-feature-icon" aria-hidden="true"></i>
+        <div>
+          <p class="feature-title">Yardage</p>
+          <p class="feature-desc">{{ page.yardage }}</p>
+        </div>
+      </div>
+
+      <div class="product-feature-section-feature bottom-left">
+        <i class="fa-solid fa-triangle-exclamation product-feature-icon" aria-hidden="true"></i>
+        <div>
+          <p class="feature-title">Difficulty</p>
+          <p class="feature-desc">{{ page.difficulty }}</p>
+        </div>
+      </div>
+
+      <div class="product-feature-section-feature bottom-right">
+        <i class="fa-solid fa-square-check product-feature-icon" aria-hidden="true"></i>
+        <div>
+          <p class="feature-title">Skills</p>
+          <p class="feature-desc">{{ page.skills }}</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+    </div>
+<div class="cell medium-4 align-left small-order-1 medium-order-2 large-order-2">
+
+      <p><img class="thumbnail align-center" src="{{ ImageLocation }}" alt="{{ page.title }}" title="{{ page.title }}"></p>
+
+      <div class="address">
+  	<hr>
+  	
+<div class="button-group-option" data-grouptype="BUY">
+  <span class="button success radius">{{page.price}}</span>
+  <a href="{{page.link}}" class="button primary radius">{{page.purchaselocation}}</a>
+</div>
+
+	<hr>
+</div>
+
+    </div>
+</div>
+</div>

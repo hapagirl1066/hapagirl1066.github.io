@@ -1,0 +1,55 @@
+<!--
+==================================================
+Body
+================================================== -->
+
+<div data-sticky-container">
+  <div class="header-container" data-sticky data-options="marginTop:0;" data-top-anchor="the-body:top">
+
+    <div class="title-bar accentbg" data-responsive-toggle="menu" data-hide-for="medium">
+      <button class="menu-icon" type="button" data-toggle="menu"></button>
+      <div class="title-bar-title">{{ site.title }}</div>
+    </div>
+
+<!--
+==================================================
+Top Bar
+================================================== -->
+    <div class="top-bar accentbg" style="height:4em;" id="menu">
+      <ul class="vertical medium-horizontal dropdown menu menu-hover-lines" data-responsive-menu="accordion medium-dropdown">
+<!--
+==================================================
+Home Link for Mobile
+================================================== -->
+			<li class="accentbg home-nav-small">
+			  <a href="{{ site.baseurl }}/">
+				Home
+			  </a>
+			</li>
+<!--
+==================================================
+Nav Loop
+================================================== -->
+{% for nav in site.data.navigation %}
+			<li class="accentbg{% if page.url == nav.url %} active{% endif %}">
+				{% if nav.url contains "http" %}<a href="{{ nav.url }}" target="_blank">{% else %}<a href="{{ site.baseurl }}{{ nav.url }}">{% endif %}
+					{{ nav.title }}<!--{{ page.url }} == {{ nav.url }}-->
+
+				</a>
+			</li>
+{% endfor %}
+      </ul>
+    </div>
+
+  </div>
+</div>
+
+<div class="grid-container" style="z-index: 5;">
+	<div class="grid-x grid-padding-x align-center" style="z-index: 5;">
+		<div class="cell small-2 large-1 align-center" style="z-index: 5;">
+			<a href="{{site.url}}">
+			  <img style="margin-top: -1em; z-index: 5;" alt="Navigation bar avatar" class="avatar-img" src="{{site.urlimg}}{{site.logo}}">
+			</a>
+		</div>
+	</div>
+</div>

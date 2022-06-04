@@ -1,0 +1,42 @@
+/** == MARIGOLD AND GREY Color Palette
+<palette>
+  <color name="Onyx" hex="404040" r="64" g="64" b="64" />
+  <color name="Gainsboro" hex="d1dbd9" r="209" g="219" b="217" />
+  <color name="Dark Sea Green" hex="abc798" r="171" g="199" b="152" />
+  <color name="Dark Olive Green" hex="506d00" r="80" g="109" b="0" />
+  <color name="Dark Green" hex="003221" r="0" g="50" b="33" />
+</palette>
+
+<!-- Coolors Palette Widget -->
+      <script src="https://coolors.co/palette-widget/widget.js"></script>
+      <script data-id="027489921731789857">new CoolorsPaletteWidget("027489921731789857", ["404040","d1dbd9","abc798","506d00","003221"]); </script>
+**/
+
+/* SCSS HEX */
+$dark: #404040;
+$light: #d1dbd9;
+$mid: #abc798;
+$accent: #506d00;
+$bright: #003221;
+$white: #ffffff;
+
+/** main color scheme **/
+$main-text-color: $dark;
+$main-bg: $white;
+$main-link: $bright;
+$main-link-hover: $accent;
+$main-headers: $accent;
+
+/** dark-background color scheme **/
+$dark-text-color: $light;
+$dark-bg: $dark;
+$dark-link: $accent;
+$dark-link-hover: $bright;
+$dark-headers: $accent;
+
+/** accent-background color scheme **/
+$accent-text-color: $dark;
+$accent-bg: $light;
+$accent-link: $bright;
+$accent-link-hover: $accent;
+$accent-headers: $accent;

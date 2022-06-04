@@ -1,0 +1,19 @@
+{% if pattern.image contains "http" %}
+{% assign ImageLocation = pattern.image %}
+{% else %}
+{% capture ImageLocation %}{{ site.baseurl }}{{ site.urlimg }}{{pattern.image}}
+{% endcapture %}
+{% endif %}
+
+
+<div class="cell small-12 medium-6 large-4 card">
+{% if pattern.image != empty %}
+<div class="card-thumbnail">
+	<a href="{{ site.baseurl }}{{ pattern.url }}">
+	<img class="square thumbnail" src="{{ ImageLocation }}" alt="{{ pattern.title }}""/></a>
+</div>
+{% endif %}
+<h3 class="card-title accentbg"><a href="{{ site.baseurl }}{{ pattern.url }}">{{ pattern.title }}</a></h3>
+<p>{{ pattern.shortdesc }}</p>
+<p class="card-desc"><strong>Gauge:</strong> {{pattern.gauge}}. <strong>Yardage:</strong> {{pattern.yardage}}</p>
+</div>

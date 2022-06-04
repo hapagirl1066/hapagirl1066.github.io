@@ -6,9 +6,11 @@ gauge: "32 sts/48 rows"
 yardage: "380 yards for up to size 10 women's sock"
 difficulty: "2"
 skills: "Knitting, purling, knitting in the round, short rows"
-price: "19.95 for the book"
+price: "5.95"
 link: "http://www.ravelry.com/purchase/hapagirl-designed-by-kalani-craig/12495"
+purchaselocation: Ravelry
 image: "http://farm5.static.flickr.com/4069/4424647093_b5dca7c9e5_o.jpg"
+shortdesc: "This new “forked heel” will win over die-hard devotees of short-row and heel-flap techniques alike, thanks to the extra heel room and more anatomically correct shape."
 ---
 
 This new “forked heel” will win over die-hard devotees of short-row and heel-flap techniques alike, thanks to the extra heel room and more anatomically correct shape. The forked heel helps the pattern curve around the ankle bone and gives the sock-wearer extra room at the back of the heel to help prevent excess wear and tear.

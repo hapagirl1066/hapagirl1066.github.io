@@ -1,0 +1,14 @@
+---
+layout: default
+format: post
+---
+
+{% if page.pubtype != null %}
+
+<p>{{ page.authors | replace:  "Kalani Craig", "<strong>Kalani Craig</strong>"}}.
+
+{% if page.pubtype == "article" %}
+	"{{page.title}}", in <em>{{page.pub}}</em>{% endif %}, {{page.pubcite}}.{% if page.DOI %} <strong>DOI:</strong> <a href="{{page.DOI}}" data-info="url">{{page.DOI}}</a>{% endif %}
+<p>{{page.excerpt}}{% endif %}	
+
+{{ content }}

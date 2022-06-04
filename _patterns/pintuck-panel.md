@@ -8,7 +8,9 @@ difficulty: "3"
 skills: "Knitting, purling, seaming, attached i-cord, knitting sts from 2 needles together"
 price: "19.95 for the book"
 link: "http://www.amazon.com/gp/product/160059302X?ie=UTF8&tag=kalacraimedih-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=160059302X"
+purchaselocation: Amazon
 image: "http://farm5.static.flickr.com/4059/4425413268_b120d5b1bf_o.jpg"
+shortdesc: "This white-on-white short-sleeve sweater was designed for Yahaira Ferreira’s Pure Knits collection. Its sheer chevron center panel is a graceful counterpoint to the simple stockinette shaping in the rest of the sweater body."
 ---
 
 This white-on-white short-sleeve sweater was designed for Yahaira Ferreira’s Pure Knits collection. Its sheer chevron center panel is a graceful counterpoint to the simple stockinette shaping in the rest of the sweater body.
