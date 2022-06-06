@@ -2,7 +2,7 @@
 layout: default
 title: polishDB
 subtitle: knitting, coding, making and other related stuff
-permalink: /polish
+permalink: /polish/
 ---
 
 <section class="filter-simple">
