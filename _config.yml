@@ -70,6 +70,6 @@ collections:
 plugins:
   - jekyll-seo-tag
 
-google_analytics_tracking_id: UA-11680223-1
-google_g4_analytics_id: G-LVREG1Y1DT
+google_analytics_tracking_id: 
+google_g4_analytics_id: G-ZLS5LWEGK2
 
