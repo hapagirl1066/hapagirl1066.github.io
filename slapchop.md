@@ -18,7 +18,7 @@ To create a full spectrum of white-to-dark areas on a mini using only grayscale.
 
 1. Prime in black ![Based]({{site.urlimg}}slapchop/01_Based.jpg "Based")
 1. Add ligher grayscale shading by dry-brushing from the top of the model toward the bottom of the model to mimic a light source from above. I like to do 3 coats:
-	1. A controlled, but heavier, dry-brush coat using a 50% gray shade that covers a good portion of the black (maybe 15-25% of the black prime will still show) ![MidGreyDryBrushTechnique]({{site.urlimg}}slapchop/05_MidGreyDryBrushTechnique.jpg "MidGreyDryBrushTechnique")
+	1. A controlled, but heavier, dry-brush coat using a 50% gray shade that covers a good portion of the black (maybe 15-25% of the black prime will still show). ![MidGreyDryBrushTechnique]({{site.urlimg}}slapchop/05_MidGreyDryBrushTechnique.jpg "MidGreyDryBrushTechnique") [see a video here]({{site.urlimg}}slapchop/MidGreyApplication.mov)
 
 	1. A controlled, but lighter, coat of standard-thickness white. Again, maybe 15-25% of the gray drybrush layer will show
 	1. A lighter dry brush of super-dense white acrylic to get the highlights on the mini to really pop
@@ -27,15 +27,30 @@ To create a full spectrum of white-to-dark areas on a mini using only grayscale.
 
 ## Some Comparisons at each stage to help.
 
+### During the slapchop process
+
+#### Based vs mid-grey layer
+
+![MidGreySlapchopComparison]({{site.urlimg}}slapchop/10_MidGreySlapchopComparison.jpg "MidGreySlapchopComparison")
+
+#### Based vs final layer
+
+![BaseSlapchopComparison]({{site.urlimg}}slapchop/09_BaseSlapchopComparison.jpg "BaseSlapchopComparison")
+
+### After the b/w part of the slapchop process
+
+The left-hand model is done with slapchop/brush technique. The right-hand two models are done using airbrush Zenithal, which has similar goals but uses layers of airbrushed white paint.
+
 ![AirbrushSlapChopComparison_front]({{site.urlimg}}slapchop/06_AirbrushSlapChopComparison_front.jpg "AirbrushSlapChopComparison_front")
 ![AirbrushSlapChopComparison_sideleft]({{site.urlimg}}slapchop/07_AirbrushSlapChopComparison_sideleft.jpg "AirbrushSlapChopComparison_sideleft")
 ![AirbrushSlapChopComparison_sideright]({{site.urlimg}}slapchop/08_AirbrushSlapChopComparison_sideright.jpg "AirbrushSlapChopComparison_sideright")
 
-![BaseSlapchopComparison]({{site.urlimg}}slapchop/09_BaseSlapchopComparison.jpg "BaseSlapchopComparison")
-![MidGreySlapchopComparison]({{site.urlimg}}slapchop/10_MidGreySlapchopComparison.jpg "MidGreySlapchopComparison")
-
 ![BWThreeModelComparison_front]({{site.urlimg}}slapchop/12_BWThreeModelComparison_front.jpg "BWThreeModelComparison_front")
 ![BWThreeModelComparison_back]({{site.urlimg}}slapchop/13_BWThreeModelComparison_back.jpg "BWThreeModelComparison_back")
+
+### After color application
+
+The left-hand model is done with slapchop/brush technique. The right-hand two models are done using airbrush Zenithal. Note the areas of slightly muddier color on the left-hand-most model. I prefer the brighter more "readable" colors on the airbrush version but the sub-$50 supply requirement for the model on the left is a pretty good tradeoff
 
 ![ColorThreeModelComparison_allangle]({{site.urlimg}}slapchop/14_ColorThreeModelComparison_allangle.jpg "ColorThreeModelComparison_allangle")
 ![ColorThreeModelComparison_side]({{site.urlimg}}slapchop/15_ColorThreeModelComparison_side.jpg "ColorThreeModelComparison_side")
