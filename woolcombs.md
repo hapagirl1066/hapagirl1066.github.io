@@ -46,13 +46,15 @@ Here are the supplies I used for the combs.
 
 ![Overview of all materials, including wood, epoxy, and tools.]({{site.urlimg}}woolcombs/01_Supplies_All.jpeg)
 
-**Materials List:**
+**Materials List: ($30)**
 - 2 [15"-length 4" wide wooden greek paddles](https://www.amazon.com/dp/B0BM8QG7R4) with handles that look comfortable
 - 3.3 mm diameter, 3 1/2" [stainless steel nails](https://www.amazon.com/dp/B0DXVFY5QK) (recommended in the resin-frame DIY version above). These are the equivalent of a size 4 knitting needle; the nail head is 8mm.
-- JBWeld Steel two-part epoxy
-- [Printable drill guide]({{site.urlimg}}woolcombs/WoolCombSpacingGuide.pdf)
+- [drill guide](https://a.co/d/087q1Z8X) to keep the tines straight
+- JBWeld Steel two-part epoxy (not included in total; already had this)
+- [Printable tine-spacing guide]({{site.urlimg}}woolcombs/WoolCombSpacingGuide.pdf). if you want to change the spacing of your tines, you can change the scale in yiur orint dialog box from 100% to whwtever works best for your needs.
 
-### Hackle (optional)
+### Additional Hackle Materials (optional, $25)
+- a second container of nails
 - [L-bolt](https://www.amazon.com/gp/product/B0FBRHRD7P/) to bolt hackle to table
 - [Butterfly nuts](https://www.amazon.com/gp/product/B0GWDBJS7C/) that fit the M4 L-bolt
 - [Rubber pad with adhesive](https://www.amazon.com/Adhesive-Rubber-Backing-Furniture-Appliances/dp/B0CS2PT17T/ref=sr_1_1_sspa)
@@ -69,13 +71,17 @@ I played with the length of the wool comb and the right spacing to accommodate t
 
 ![Physical test piece demonstrating the calculated tine spacing.]({{site.urlimg}}woolcombs/02_Drafting_SpacingTestIMG_3621.jpeg)
 
-## Marking and Cutting the Paddles
+## Cutting the Paddles
 
 Draw a line 2 1/2" from the start of the handle curve and use a circular or handsaw to cut across the paddle on that line to form your comb. If you're going to make a hackle, cut the remaining rectangle in half longways.
 
+Sand down the sharp edges of the new wool combs before proceeding.
+
 ![The large wooden paddles with all the required tine markings drawn onto the surface.]({{site.urlimg}}woolcombs/03_Marking_Paddles.jpeg)
 
-Initially I tested the spacing by manually marking the paddles. This is included only for reference. 
+## Test-Drilling Tine-Spacing
+
+Initially I tested the spacing by manually marking the paddles. Don't do this. This section is included only for reference. 
 
 ![Close-up view of the evenly spaced marks on the paddle surface.]({{site.urlimg}}woolcombs/03_Marking_PaddlesSpacing.jpeg)
 
@@ -83,17 +89,15 @@ Initially I tested the spacing by manually marking the paddles. This is included
 
 ![Sketch illustrating the process of transferring markings to the wood.]({{site.urlimg}}woolcombs/03_Marking_PaddlesSpacingSketch.jpeg)
 
-Sand down the sharp edges of the new wool combs before proceeding.
-
-## Testing the Drill Grid
-
 ![A drill bit being tested on the wood to verify the path.]({{site.urlimg}}woolcombs/04_Testing_Drill.jpeg)
 
 ![A test piece showing multiple holes drilled according to the guide.]({{site.urlimg}}woolcombs/04_Testing_Drilled.jpeg)
 
-## Drill Guide and Support During Drilling
+## Tine-Spacing Guide and Support During Drilling
 
-I folded the drill guide on two sides, pinched it around the paddle and then taped the handle to the drill guide so that I could flip the whole thing over.
+You should not mark your paddles manually. ***Instead, download this printable tine-spacing guide]({{site.urlimg}}woolcombs/WoolCombSpacingGuide.pdf).*** Print one and tape it to the paddle for spacing the combs themselves; fold it around the straight edge of the hackle piece. The pink and blue lines are offset so that you can drill a one-row comb using only the pink or a two-row comb using first the pink grid and then the blue grid.
+
+I folded the tine-spacing guide on two sides, pinched it around the paddle and then taped the handle to the paper guide so that I could flip the whole thing over.
 
 ![The jig placed on the workspace, aligning with the marked paddles.]({{site.urlimg}}woolcombs/05_Prepping_JigPlacement.jpeg)
 
@@ -103,9 +107,7 @@ I folded the drill guide on two sides, pinched it around the paddle and then tap
 
 ## Drilling and Assembly
 
-You should not mark your paddles manually. ***Instead, download this printable drilling guide]({{site.urlimg}}woolcombs/WoolCombSpacingGuide.pdf).*** Print one and tape it to the paddle for spacing the combs themselves; fold it around the straight edge of the hackle piece. The pink and blue lines are offset so that you can drill a one-row comb using only the pink or a two-row comb using first the pink grid and then the blue grid.
-
-With the drill guide secured, I used the pink and blue grid to align the drill guide.
+With the tine-spacing guide secured, I used the pink and blue grid to align the drill guide. If the drill guide is unstable, slip extra pieces of the paddle under the tine-spacing guide to make it easier to align.
 
 Because the drill guide didn't have the right size to fit the 3.3mm nails, I used a 1/8" drill bit first to create a guide hole for each tine hole. With the drill guide, it's easiest to work from the hole furthest away to the hole closest to you. Otherwise, you'll end up drilling through the guide lines on the printed drill guide and its harder to line up the holes correctly.
 
