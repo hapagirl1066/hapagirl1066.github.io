@@ -95,7 +95,7 @@ Initially I tested the spacing by manually marking the paddles. Don't do this. T
 
 ![A test piece showing multiple holes drilled according to the guide.]({{site.urlimg}}woolcombs/04_Testing_Drilled.jpeg)
 
-## Tine-Spacing Guide and Support During Drilling
+## Tine-Spacing Guide
 
 You should not mark your paddles manually. ***Instead, [download this printable tine-spacing guide]({{site.urlimg}}woolcombs/WoolCombSpacingGuide.pdf).*** Print one and tape it to the paddle for spacing the tines; fold it around the straight edge of the hackle piece. The pink and blue lines are offset so that you can drill a one-row comb using only the pink grid or a two-row comb using first the pink grid and then the blue grid.
 
