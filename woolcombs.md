@@ -71,11 +71,11 @@ I played with the length of the wool comb and the right spacing to accommodate t
 
 ## Marking and Cutting the Paddles
 
-Initially I tested the spacing by manually marking the paddles.
-
-I do not recommend this. ***Instead, [download this printable drilling guide]({{site.urlimg}}woolcombs/WoolCombSpacingGuide.pdf).*** Print one and tape it to the paddle for spacing the combs themselves; fold it around the straight edge of the hackle piece. The pink and blue lines are offset so that you can drill a one-row comb using only the pink or a two-row comb using first the pink grid and then the blue grid.
+Draw a line 2 1/2" from the start of the handle curve and use a circular or handsaw to cut across the paddle on that line to form your comb. If you're going to make a hackle, cut the remaining rectangle in half longways.
 
 ![The large wooden paddles with all the required tine markings drawn onto the surface.]({{site.urlimg}}woolcombs/03_Marking_Paddles.jpeg)
+
+Initially I tested the spacing by manually marking the paddles. This is included only for reference. 
 
 ![Close-up view of the evenly spaced marks on the paddle surface.]({{site.urlimg}}woolcombs/03_Marking_PaddlesSpacing.jpeg)
 
@@ -102,6 +102,8 @@ I folded the drill guide on two sides, pinched it around the paddle and then tap
 ![The fully supported and prepared assembly, ready for drilling.]({{site.urlimg}}woolcombs/05_Prepping_JigTapingDrillSupport.jpeg)
 
 ## Drilling and Assembly
+
+You should not mark your paddles manually. ***Instead, download this printable drilling guide]({{site.urlimg}}woolcombs/WoolCombSpacingGuide.pdf).*** Print one and tape it to the paddle for spacing the combs themselves; fold it around the straight edge of the hackle piece. The pink and blue lines are offset so that you can drill a one-row comb using only the pink or a two-row comb using first the pink grid and then the blue grid.
 
 With the drill guide secured, I used the pink and blue grid to align the drill guide.
 
