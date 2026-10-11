@@ -5,7 +5,13 @@ subtitle: knitting, coding, making and other related stuff
 permalink: /woolcombandhackle/
 ---
 
-# Well, I guess I'm a spinner now.
+# A DIY Option for Wool Combs
+
+![The comb structure after the epoxy has cured and hardened.]({{site.urlimg}}woolcombs/07_Done_EpoxySetting.jpeg)
+
+![The finished wool comb, showcasing the perfect tine spacing and final appearance.]({{site.urlimg}}woolcombs/07_Done_TineSpacing.jpeg)
+
+## Well, I guess I'm a spinner now.
 
 So, I started spinning. I swore i never would, but it was inevitable that I would abjure that oath and give in. The question is just how far I would go.
 
@@ -51,19 +57,15 @@ Here are the supplies I used for the combs.
 - 3.3 mm diameter, 3 1/2" [stainless steel nails](https://www.amazon.com/dp/B0DXVFY5QK) (recommended in the resin-frame DIY version above). These are the equivalent of a size 4 knitting needle; the nail head is 8mm.
 - [drill guide](https://a.co/d/087q1Z8X) to keep the tines straight
 - JBWeld Steel two-part epoxy (not included in total; already had this)
-- [Printable tine-spacing guide]({{site.urlimg}}woolcombs/WoolCombSpacingGuide.pdf). if you want to change the spacing of your tines, you can change the scale in yiur orint dialog box from 100% to whwtever works best for your needs.
+- [Printable tine-spacing guide]({{site.urlimg}}woolcombs/WoolCombSpacingGuide.pdf). if you want to change the spacing of your tines, you can change the scale in your print dialog box from 100% to whatever works best for your needs.
 
 ### Additional Hackle Materials (optional, $25)
 - a second container of nails
-- [L-bolt](https://www.amazon.com/gp/product/B0FBRHRD7P/) to bolt hackle to table
-- [Butterfly nuts](https://www.amazon.com/gp/product/B0GWDBJS7C/) that fit the M4 L-bolt
+- 2 [L-bolts](https://www.amazon.com/gp/product/B0FBRHRD7P/) to bolt hackle to table
+- 2 [butterfly nuts](https://www.amazon.com/gp/product/B0GWDBJS7C/) that fit the M4 L-bolt
 - [Rubber pad with adhesive](https://www.amazon.com/Adhesive-Rubber-Backing-Furniture-Appliances/dp/B0CS2PT17T/ref=sr_1_1_sspa)
 
-![Close-up of the specific nail size used for the tines.]({{site.urlimg}}woolcombs/01_Supplies_NailSize.jpeg)
-
-![Close-up of the nail head used for the tines.]({{site.urlimg}}woolcombs/01_Supplies_NailSizeHead.jpeg)
-
-## Drafting the Design and Tine Spacing
+## Sketching the Design and Tine Spacing
 
 I played with the length of the wool comb and the right spacing to accommodate the 8mm nailheads but keep the nail shafts close enough together to be effective for combing. 9.5mm or 10mm from center to center worked best.
 
@@ -73,7 +75,7 @@ I played with the length of the wool comb and the right spacing to accommodate t
 
 ## Cutting the Paddles
 
-Draw a line 2 1/2" from the start of the handle curve and use a circular or handsaw to cut across the paddle on that line to form your comb. If you're going to make a hackle, cut the remaining rectangle in half longways.
+Draw a line 2 1/2" from the start of the handle curve and use a circular or handsaw to cut across the paddle on that line to form your comb. If you're going to make a hackle, cut one of the remaining rectangles in half lengthwise.
 
 Sand down the sharp edges of the new wool combs before proceeding.
 
@@ -95,7 +97,7 @@ Initially I tested the spacing by manually marking the paddles. Don't do this. T
 
 ## Tine-Spacing Guide and Support During Drilling
 
-You should not mark your paddles manually. ***Instead, [download this printable tine-spacing guide]({{site.urlimg}}woolcombs/WoolCombSpacingGuide.pdf).*** Print one and tape it to the paddle for spacing the combs themselves; fold it around the straight edge of the hackle piece. The pink and blue lines are offset so that you can drill a one-row comb using only the pink or a two-row comb using first the pink grid and then the blue grid.
+You should not mark your paddles manually. ***Instead, [download this printable tine-spacing guide]({{site.urlimg}}woolcombs/WoolCombSpacingGuide.pdf).*** Print one and tape it to the paddle for spacing the tines; fold it around the straight edge of the hackle piece. The pink and blue lines are offset so that you can drill a one-row comb using only the pink grid or a two-row comb using first the pink grid and then the blue grid.
 
 I folded the tine-spacing guide on two sides, pinched it around the paddle and then taped the handle to the paper guide so that I could flip the whole thing over.
 
@@ -103,11 +105,11 @@ I folded the tine-spacing guide on two sides, pinched it around the paddle and t
 
 ![The jig and paddles secured with tape to prevent shifting.]({{site.urlimg}}woolcombs/05_Prepping_JigTaping.jpeg)
 
-![The fully supported and prepared assembly, ready for drilling.]({{site.urlimg}}woolcombs/05_Prepping_JigTapingDrillSupport.jpeg)
-
 ## Drilling and Assembly
 
 With the tine-spacing guide secured, I used the pink and blue grid to align the drill guide. If the drill guide is unstable, slip extra pieces of the paddle under the tine-spacing guide to make it easier to align.
+
+![The fully supported and prepared assembly, ready for drilling.]({{site.urlimg}}woolcombs/05_Prepping_JigTapingDrillSupport.jpeg)
 
 Because the drill guide didn't have the right size to fit the 3.3mm nails, I used a 1/8" drill bit first to create a guide hole for each tine hole. With the drill guide, it's easiest to work from the hole furthest away to the hole closest to you. Otherwise, you'll end up drilling through the guide lines on the printed drill guide and its harder to line up the holes correctly.
 
@@ -128,10 +130,6 @@ Pop the nails out partway and apply mixed JBWeld to the nail shaft just under th
 Prop the finished combs on the edge of a surface where they won't get disturbed, and use a counterweight on the paddles to hold them down.
 
 Wait for the epoxy to cure, and voila! Wool Combs!
-
-![The comb structure after the epoxy has cured and hardened.]({{site.urlimg}}woolcombs/07_Done_EpoxySetting.jpeg)
-
-![The finished wool comb, showcasing the perfect tine spacing and final appearance.]({{site.urlimg}}woolcombs/07_Done_TineSpacing.jpeg)
 
 ## Hackle
 
