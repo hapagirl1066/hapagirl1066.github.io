@@ -30,72 +30,76 @@ What I do not want, however, is to invest in expensive combs and then end up not
 # The Solution: DIY Wool Combs
 
 I went hunting online and found a few options, but none of them worked for the tools I had or wanted to use.
-- This one uses a wood frame and two-part resin to set the tines, but I don't like working with over-the-counter two-part epoxy because it often doesn't set right when you're pouring at this depth: https://web.archive.org/web/20251205104843/https://www.instructables.com/How-to-Easily-and-Cheaply-Make-Wool-Combs/
-- This one uses plastic hair picks, which is super clever, but I wanted something a little nicer to hold and less likely to crack: https://web.archive.org/web/20250528220514/https://www.youtube.com/watch?feature=applinks&v=xXDhEoc9AM4&pp=ygUUc2VsZWN0aW5nIHdvb2wgY29tYnM%3D
-- This one uses knitting needles, but you need a tool to cut the metal, and a little more woodworking equipment than I have: https://looseendsfibre.co.uk/2023/10/22/diy-wool-combs/
+- This one uses a wood frame and two-part resin to set the tines, but I don't like working with over-the-counter two-part epoxy because it often doesn't set right when you're pouring at this depth: [https://web.archive.org/web/20251205104843/https://www.instructables.com/How-to-Easily-and-Cheaply-Make-Wool-Combs/](https://web.archive.org/web/20251205104843/https://www.instructables.com/How-to-Easily-and-Cheaply-Make-Wool-Combs/)
+- This one uses plastic hair picks, which is super clever, but I wanted something a little nicer to hold and less likely to crack: [https://web.archive.org/web/20250528220514/https://www.youtube.com/watch?feature=applinks&v=xXDhEoc9AM4&pp=ygUUc2VsZWN0aW5nIHdvb2wgY29tYnM%3D](https://web.archive.org/web/20250528220514/https://www.youtube.com/watch?feature=applinks&v=xXDhEoc9AM4&pp=ygUUc2VsZWN0aW5nIHdvb2wgY29tYnM%3D)
+- This one uses knitting needles, but you need a tool to cut the metal, and a little more woodworking equipment than I have: [https://looseendsfibre.co.uk/2023/10/22/diy-wool-combs/](https://looseendsfibre.co.uk/2023/10/22/diy-wool-combs/)
 
 So I used bits and pieces of each of the DIY options above to engineer two combs and a hackle that uses a drill, the $50 mini handheld circular saw that's already in the garage, and a new $8 drill guide tool.
 
-I'm pretty happy with how these turned out, and I think they're likely to last for a while. The first of the two combs is a little less even because I hadn't yet made a jig, but 
+I'm pretty happy with how these turned out, and I think they're likely to last for a while. The first of the two combs is a little less even because I hadn't yet made a jig, but...
 
 ## Supplies and Initial Assessment
 
 ### Combs
 
-![Overview of all materials, including wood, epoxy, and tools.]!({{site.urlimg}}woolcombs/01_Supplies_All.jpeg)
+Here are the supplies I used for the combs.
 
+![Overview of all materials, including wood, epoxy, and tools.]({{site.urlimg}}woolcombs/01_Supplies_All.jpeg)
+
+**Materials List:**
 - 2 [15"-length 4" wide wooden greek paddles](https://www.amazon.com/dp/B0BM8QG7R4) with handles that look comfortable
 - 3.3 mm diameter, 3 1/2" [stainless steel nails](https://www.amazon.com/dp/B0DXVFY5QK) (recommended in the resin-frame DIY version above). These are the equivalent of a size 4 knitting needle; the nail head is 8mm.
 - JBWeld Steel two-part epoxy
+- [Printable drill guide]({{site.urlimg}}woolcombs/WoolCombSpacingGuide.pdf)
 
 ### Hackle (optional)
 - [L-bolt](https://www.amazon.com/gp/product/B0FBRHRD7P/) to bolt hackle to table
 - [Butterfly nuts](https://www.amazon.com/gp/product/B0GWDBJS7C/) that fit the M4 L-bolt
 - [Rubber pad with adhesive](https://www.amazon.com/Adhesive-Rubber-Backing-Furniture-Appliances/dp/B0CS2PT17T/ref=sr_1_1_sspa)
 
-![Close-up of the specific nail size used for the tines.]!({{site.urlimg}}woolcombs/01_Supplies_NailSize.jpeg)
-![Close-up of the nail head used for the tines.]!({{site.urlimg}}woolcombs/01_Supplies_NailSizeHead.jpeg)
+![Close-up of the specific nail size used for the tines.]({{site.urlimg}}woolcombs/01_Supplies_NailSize.jpeg)
+
+![Close-up of the nail head used for the tines.]({{site.urlimg}}woolcombs/01_Supplies_NailSizeHead.jpeg)
 
 ## Drafting the Design and Tine Spacing
 
 I played with the length of the wool comb and the right spacing to accommodate the 8mm nailheads but keep the nail shafts close enough together to be effective for combing. 9.5mm or 10mm from center to center worked best.
 
-![Initial sketch drawing showing the pattern for tine spacing.]!({{site.urlimg}}woolcombs/02_Drafting_SpacingSketch.jpeg)
+![Initial sketch drawing showing the pattern for tine spacing.]({{site.urlimg}}woolcombs/02_Drafting_SpacingSketch.jpeg)
 
-![Physical test piece demonstrating the calculated tine spacing.]!({{site.urlimg}}woolcombs/02_Drafting_SpacingTestIMG_3621.jpeg)
+![Physical test piece demonstrating the calculated tine spacing.]({{site.urlimg}}woolcombs/02_Drafting_SpacingTestIMG_3621.jpeg)
 
 ## Marking and Cutting the Paddles
 
 Initially I tested the spacing by manually marking the paddles.
 
-I do not recommend this. ***Instead, download this printable drilling guide.*** Print one and tape it to the paddle for spacing the combs themselves; fold it around the straight edge of the hackle piece. The pink and blue lines are offset so that you can drill a one-row comb using only the pink or a two-row comb using first the pink grid and then the blue grid.
+I do not recommend this. ***Instead, [download this printable drilling guide]({{site.urlimg}}woolcombs/WoolCombSpacingGuide.pdf).*** Print one and tape it to the paddle for spacing the combs themselves; fold it around the straight edge of the hackle piece. The pink and blue lines are offset so that you can drill a one-row comb using only the pink or a two-row comb using first the pink grid and then the blue grid.
 
-![The large wooden paddles with all the required tine markings drawn onto the surface.]!({{site.urlimg}}woolcombs/03_Marking_Paddles.jpeg)
+![The large wooden paddles with all the required tine markings drawn onto the surface.]({{site.urlimg}}woolcombs/03_Marking_Paddles.jpeg)
 
-![Close-up view of the evenly spaced marks on the paddle surface.]!({{site.urlimg}}woolcombs/03_Marking_PaddlesSpacing.jpeg)
+![Close-up view of the evenly spaced marks on the paddle surface.]({{site.urlimg}}woolcombs/03_Marking_PaddlesSpacing.jpeg)
 
-![Marked spots showing the exact points where the drill bits will enter.]!({{site.urlimg}}woolcombs/03_Marking_PaddlesSpacingDrill.jpeg)
+![Marked spots showing the exact points where the drill bits will enter.]({{site.urlimg}}woolcombs/03_Marking_PaddlesSpacingDrill.jpeg)
 
-![Sketch illustrating the process of transferring markings to the wood.]!({{site.urlimg}}woolcombs/03_Marking_PaddlesSpacingSketch.jpeg)
+![Sketch illustrating the process of transferring markings to the wood.]({{site.urlimg}}woolcombs/03_Marking_PaddlesSpacingSketch.jpeg)
 
 Sand down the sharp edges of the new wool combs before proceeding.
 
 ## Testing the Drill Grid
 
-![A drill bit being tested on the wood to verify the path.]!({{site.urlimg}}woolcombs/04_Testing_Drill.jpeg)
+![A drill bit being tested on the wood to verify the path.]({{site.urlimg}}woolcombs/04_Testing_Drill.jpeg)
 
-![A test piece showing multiple holes drilled according to the guide.]!({{site.urlimg}}woolcombs/04_Testing_Drilled.jpeg)
+![A test piece showing multiple holes drilled according to the guide.]({{site.urlimg}}woolcombs/04_Testing_Drilled.jpeg)
 
 ## Drill Guide and Support During Drilling
 
 I folded the drill guide on two sides, pinched it around the paddle and then taped the handle to the drill guide so that I could flip the whole thing over.
 
-![The jig placed on the workspace, aligning with the marked paddles.]!({{site.urlimg}}woolcombs/05_Prepping_JigPlacement.jpeg)
+![The jig placed on the workspace, aligning with the marked paddles.]({{site.urlimg}}woolcombs/05_Prepping_JigPlacement.jpeg)
 
-![The jig and paddles secured with tape to prevent shifting.]!({{site.urlimg}}woolcombs/05_Prepping_JigTaping.jpeg)
+![The jig and paddles secured with tape to prevent shifting.]({{site.urlimg}}woolcombs/05_Prepping_JigTaping.jpeg)
 
-![The fully supported and prepared assembly, ready for drilling.]!({{site.urlimg}}woolcombs/05_Prepping_JigTapingDrillSupport.jpeg)
-*Figure 5.3: Complete Jig Support Setup. This final arrangement shows the paddles fully supported and secured by the custom jig, creating the optimal environment for accurate drilling.*
+![The fully supported and prepared assembly, ready for drilling.]({{site.urlimg}}woolcombs/05_Prepping_JigTapingDrillSupport.jpeg)
 
 ## Drilling and Assembly
 
@@ -105,15 +109,15 @@ Because the drill guide didn't have the right size to fit the 3.3mm nails, I use
 
 To enlarge the holes while keeping them straight up and down, I used a 5/32" drill bit, pressing very gently at first to get the larger drill bit to engage and follow the pre-drilled 1/8 guide hole.
 
-![Aligning the drill guide over the pre-drilled holes.]!({{site.urlimg}}woolcombs/06_Assembly_DrillGuideAlignment.jpeg)
+![Aligning the drill guide over the pre-drilled holes.]({{site.urlimg}}woolcombs/06_Assembly_DrillGuideAlignment.jpeg)
 
 Sand everything on both sides, and then insert the nails from the bottom of the paddle, away from the side where you initially drilled.
 
 Pop the nails out partway and apply mixed JBWeld to the nail shaft just under the nail head.
 
-![The initial application of epoxy resin to the assembly.]!({{site.urlimg}}woolcombs/06_Assembly_Epoxy.jpeg)
+![The initial application of epoxy resin to the assembly.]({{site.urlimg}}woolcombs/06_Assembly_Epoxy.jpeg)
 
-![The assembly completely coated with epoxy resin.]!({{site.urlimg}}woolcombs/06_Assembly_EpoxyApplied.jpeg)
+![The assembly completely coated with epoxy resin.]({{site.urlimg}}woolcombs/06_Assembly_EpoxyApplied.jpeg)
 
 ## Curing and Finishing
 
@@ -121,9 +125,9 @@ Prop the finished combs on the edge of a surface where they won't get disturbed,
 
 Wait for the epoxy to cure, and voila! Wool Combs!
 
-![The comb structure after the epoxy has cured and hardened.]!({{site.urlimg}}woolcombs/07_Done_EpoxySetting.jpeg)
+![The comb structure after the epoxy has cured and hardened.]({{site.urlimg}}woolcombs/07_Done_EpoxySetting.jpeg)
 
-![The finished wool comb, showcasing the perfect tine spacing and final appearance.]!({{site.urlimg}}woolcombs/07_Done_TineSpacing.jpeg)
+![The finished wool comb, showcasing the perfect tine spacing and final appearance.]({{site.urlimg}}woolcombs/07_Done_TineSpacing.jpeg)
 
 ## Hackle
 
