@@ -119,13 +119,17 @@ To enlarge the holes while keeping them straight up and down, I used a 5/32" dri
 
 Sand everything on both sides, and then insert the nails from the bottom of the paddle, away from the side where you initially drilled.
 
-Pop the nails out partway and apply mixed JBWeld all the way around the nail shaft just under the nail head. Apply enough to fill the negative space between the nail shaft and the drilled hole. This photo is not enough to anchor the tines permanently, so be bold!
+## Epoxy the Nails
 
-Wipe any stray epoxy off of the nailheads and tines.
+Pop the nails out partway and apply mixed JBWeld all the way around the nail shaft just under the nail head. 
 
 ![The initial application of epoxy resin to the assembly.]({{site.urlimg}}woolcombs/06_Assembly_Epoxy.jpeg)
 
+Apply enough to fill the negative space between the nail shaft and the drilled hole. This photo is not enough to anchor the tines permanently, so be bold!
+
 ![The assembly completely coated with epoxy resin.]({{site.urlimg}}woolcombs/06_Assembly_EpoxyApplied.jpeg)
+
+Wipe any stray epoxy off of the nailheads and tines.
 
 ## Curing and Finishing
 
